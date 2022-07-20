@@ -8,9 +8,9 @@
 * Listar todas moedas de cambio com base no nome (base_rate);
 
 
-# Tecnologias usada
+# Tecnologias usadas
 
-Java 11 , Spring Boot 2, Maven, Apache Tomcat, H2 Database, Hibernate
+Java 11 , Spring Boot , Maven, Apache Tomcat, H2 Database, Hibernate
 
 # Endpoints
 
