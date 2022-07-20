@@ -20,7 +20,7 @@ GET /cambios/
 
 GET /cambios/{id}
 
-GET /cambios/?name={name}
+GET /cambios/latest/?name={name}
 
 
 
