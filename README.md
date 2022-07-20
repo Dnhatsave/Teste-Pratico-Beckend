@@ -1,1 +1,34 @@
-# Teste-Pratico-Beckend
+# Teste Pratico Beckend API RESTfull 
+
+ Esta API RESTfull permite gerenciar e expor servicos de cambios
+
+# Features
+* Listar todas moedas de cambios existentes;
+* Listar todas moedas de cambio com base no identificador (ID);
+* Listar todas moedas de cambio com base no nome (base_rate);
+
+
+# Tecnologias usada
+
+Java 11 , Spring Boot 2, Maven, Apache Tomcat, H2 Database, Hibernate
+
+# Endpoints
+
+URL: http://localhost:8080/cambios
+
+GET /cambios/
+
+GET /cambios/{id}
+
+GET /cambios/?name={name}
+
+
+
+
+# DEMO DATABASE
+URL: http://localhost:8080/h2-console/
+user: sa
+password: null
+
+
+*Todos direitos reservados @dnhatsave *
